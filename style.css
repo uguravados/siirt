@@ -1,0 +1,181 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100%;
+  font-family: sans-serif;
+}
+.par1{
+  background-color: #E4913D;
+}
+.image1 {
+  background-image: url(./img/1-üç\ dilli\ kardes\ sehir.png);
+  height: 740px;
+  background-repeat: none;
+  background-size: cover;
+  background-position: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background-attachment: fixed;
+}
+.head1 {
+  background-color: black;
+  opacity: 0.5;
+  border: 5px solid rgb(34, 6, 6);
+  color: rgb(245, 239, 239);
+  font-size: 2rem;
+  outline-width: 3px;
+  padding: 2rem;
+  outline: 0.5rem solid #e49549;
+  letter-spacing: 0.3rem;
+  outline-offset: 9px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  font-weight: 900;
+}
+.head1:hover{
+cursor: pointer;
+transform: scale(1.1);
+
+}
+.image2 {
+  height: 550px;
+  background-repeat: none;
+  background-size: cover;
+  background-position: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background-image: url(./img/2-genel.png);
+  background-attachment: fixed;
+}
+div p {
+  text-align: center;
+  padding: 2rem;
+  line-height: 2rem;
+  font-style: italic;
+  
+}
+
+.head2 {
+  border: 5px solid #b4c9e2;
+  color: #1a5eb1;
+  font-size: 2rem;
+  outline-width: 3px;
+  padding: 2rem;
+  outline: 0.5rem solid #1d5ba7;
+  letter-spacing: 0.3rem;
+  outline-offset: 9px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  font-weight: 900;
+  background-color: #b4c9e2;
+  opacity: 0.6;
+}
+.par2{
+  background-color: #BDD6EB;
+}
+
+h1 {
+  text-align: center;
+}
+
+.image3 {
+  background-image: url(./img/5-yöresel-yemekler.jpg);
+  height: 550px;
+  background-repeat: none;
+  background-size: cover;
+  background-position: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background-attachment: fixed;
+
+}
+.head3 {
+  color: #b11a1a;
+  font-size: 2rem;
+  outline-width: 3px;
+  padding: 2rem;
+  outline: 0.5rem solid #e92323;
+  letter-spacing: 0.3rem;
+  outline-offset: 9px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  font-weight: 900;
+  background-color: #e4b7b7;
+  opacity: 0.6;
+}
+.par3{
+
+  background-color: #EF5A38;
+}
+.image4 {
+  background-image: url(./img/3-doğa\ turizmi.jpg);
+  height: 500px;
+  background-repeat: none;
+  background-size: cover;
+  background-position: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background-attachment: fixed;
+
+}
+
+.head4 {
+  color: #dfdc44;
+  font-size: 2rem;
+  outline-width: 3px;
+  padding: 2rem;
+  outline: 0.5rem solid #8f9c4f;
+  letter-spacing: 0.3rem;
+  outline-offset: 9px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  font-weight: 900;
+  background-color: #46495a;
+  opacity: 0.6;
+}
+
+.par4{
+
+  background-color: #dfdc44;
+}
+.image5 {
+  background-image: url(./img/4-tarihi\ turzm.png);
+  height: 500px;
+  background-repeat: none;
+  background-size: cover;
+  background-position: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background-attachment: fixed;
+
+}
+
+.head5 {
+  color: #471f04;
+  font-size: 2rem;
+  outline-width: 3px;
+  padding: 2rem;
+  outline: 0.5rem solid #6d8109;
+  letter-spacing: 0.3rem;
+  outline-offset: 9px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  font-weight: 900;
+  background-color: #f6a02f;
+  opacity: 0.6;
+}
+
+.par5{
+
+  background-color:#f6a02f ;
+}
+
